@@ -1,0 +1,25 @@
+baseURL = "https://r3m4g.github.io"
+languageCode = "en-us"
+title = "Astitva's Blog"
+theme= "dream"
+defaultContentLanguage = "en"
+googleAnalytics = "UA-130796232-1"
+disqusShortname = "z3k3"
+
+[params]
+  author = "Astitva Nikose"
+  description = "Astitva's Blog"
+  avatar = "/me.jpg"
+  motto = "Cyber Security Enthusiat | Gamer-till-death | Meme Creator"
+  email = "z3k3.1024@gmail.com"
+  github = "r3m4g"
+  linkedin = "astitva-nikose-341240166"
+  facebook = "astitva.nikose"
+  instagram = "@z3k31024"
+
+  siteStartYear = 2018
+  aboutHeader = "About"
+
+  paginate = 4
+
+  favicon = "/favicon.ico"

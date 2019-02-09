@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Astitva&#39;s Blog</title>
+    <link>https://r3m4g.github.io/tags/</link>
+    <description>Recent content in Tags on Astitva&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 03:28:27 +0530</lastBuildDate>
+    
+	<atom:link href="https://r3m4g.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oneplus3t</title>
+      <link>https://r3m4g.github.io/tags/oneplus3t/</link>
+      <pubDate>Wed, 12 Dec 2018 03:28:27 +0530</pubDate>
+      
+      <guid>https://r3m4g.github.io/tags/oneplus3t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xdadevelopers</title>
+      <link>https://r3m4g.github.io/tags/xdadevelopers/</link>
+      <pubDate>Wed, 12 Dec 2018 03:28:27 +0530</pubDate>
+      
+      <guid>https://r3m4g.github.io/tags/xdadevelopers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
